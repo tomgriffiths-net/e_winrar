@@ -1,0 +1,10 @@
+{
+    "id_name": "e_winrar",
+    "version": 2,
+    "author": "tom",
+    "name": "WinRAR executable",
+    "description": "",
+    "dependencies": {
+        "is_admin":1
+    }
+}
